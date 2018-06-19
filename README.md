@@ -1,5 +1,5 @@
 # Unity_gitignore
-My person gitignore file Unity
+My personal gitignore file for Unity3D
 ```
 [Ll]ibrary/
 [Tt]emp/
